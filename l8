@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>L8 niño polla — Términos y Privacidad</title>
+<style>
+body{font-family:Arial,sans-serif;max-width:850px;margin:0 auto;padding:24px;line-height:1.6;color:#222}
+nav{display:flex;gap:12px;flex-wrap:wrap;margin-bottom:28px}
+nav a{padding:10px 14px;border-radius:8px;background:#eee;text-decoration:none;color:#222}
+section{margin-bottom:40px} h1{margin-bottom:8px} h2{margin-top:28px}
+.small{color:#666}
+</style>
+</head>
+<body>
+<h1>L8 niño polla</h1>
+<p class="small">Términos de Servicio y Política de Privacidad · Última actualización: 18 de septiembre de 2026</p>
+
+<nav>
+<a href="#terms">Términos de Servicio</a>
+<a href="#privacy">Política de Privacidad</a>
+</nav>
+
+<section id="terms">
+<h2>Términos de Servicio</h2>
+<p>Estos Términos regulan el uso del bot de Discord <strong>L8 niño polla</strong> (“el Bot”).</p>
+<h3>1. Uso del Bot</h3>
+<p>El Bot proporciona funciones para servidores de Discord, incluyendo creación y gestión de canales de voz (VC), registro y cálculo del tiempo de permanencia en canales de voz y un sistema de acumulación de horas de actividad.</p>
+<h3>2. Uso adecuado</h3>
+<p>No debes utilizar el Bot para actividades ilegales, abusivas, fraudulentas o que infrinjan las reglas de Discord. Tampoco debes intentar obtener acceso no autorizado a cuentas, servidores o información.</p>
+<h3>3. Disponibilidad</h3>
+<p>El Bot se proporciona tal como está disponible. Sus funciones pueden modificarse, suspenderse o retirarse en cualquier momento. No se garantiza disponibilidad permanente ni ausencia de errores.</p>
+<h3>4. Datos</h3>
+<p>El Bot puede procesar determinados datos necesarios para sus funciones. El tratamiento se explica en la Política de Privacidad de esta página.</p>
+<h3>5. Discord</h3>
+<p>L8 niño polla es un servicio independiente y no está operado ni patrocinado por Discord. El uso de Discord está sujeto a sus propios términos y políticas.</p>
+<h3>6. Contacto</h3>
+<p>Correo: <strong>[TU CORREO]</strong></p>
+</section>
+
+<section id="privacy">
+<h2>Política de Privacidad</h2>
+<p>Esta Política explica qué información puede procesar L8 niño polla, para qué se utiliza y cómo solicitar su eliminación.</p>
+<h3>1. Información que podemos recopilar</h3>
+<ul>
+<li>ID de usuario de Discord.</li>
+<li>ID del servidor de Discord.</li>
+<li>ID de los canales de voz utilizados por el Bot.</li>
+<li>Nombre o identificador necesario para mostrar estadísticas.</li>
+<li>Hora de entrada y salida de un canal de voz.</li>
+<li>Tiempo acumulado de permanencia en canales de voz.</li>
+<li>Información necesaria para ejecutar comandos.</li>
+</ul>
+<p><strong>El Bot no graba ni almacena el contenido de las conversaciones de voz.</strong></p>
+<h3>2. Finalidad</h3>
+<p>Los datos se utilizan para crear y administrar canales de voz, calcular horas de actividad, mantener estadísticas, ejecutar comandos, solucionar errores y detectar abusos.</p>
+<h3>3. Compartición</h3>
+<p>No vendemos los datos recopilados. No los compartimos con terceros salvo cuando sea necesario para prestar el servicio, cumplir obligaciones legales o proteger la seguridad del Bot y sus usuarios.</p>
+<h3>4. Conservación</h3>
+<p>Conservamos los datos durante el tiempo necesario para proporcionar las funciones del Bot y mantener sus estadísticas. Cuando dejan de ser necesarios, pueden eliminarse o anonimizarse.</p>
+<h3>5. Eliminación</h3>
+<p>Puedes solicitar la eliminación de los datos asociados a tu cuenta de Discord escribiendo a <strong>[TU CORREO]</strong>. Incluye tu ID de usuario de Discord para localizar los datos correspondientes.</p>
+<h3>6. Seguridad</h3>
+<p>Tomamos medidas razonables para proteger la información procesada frente a accesos no autorizados, pérdida o uso indebido.</p>
+<h3>7. Cambios</h3>
+<p>Esta Política puede actualizarse cuando sea necesario. La fecha de actualización aparecerá al principio de la página.</p>
+<h3>8. Contacto</h3>
+<p>Correo: <strong>[TU CORREO]</strong></p>
+</section>
+</body>
+</html>
